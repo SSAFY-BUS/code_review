@@ -43,7 +43,7 @@ SWEA -> SWEA
 - 코드 리뷰 시, 이슈 등록을 통해 관리. 다음 링크 참조 : 
     [코드 리뷰 예제](https://github.com/SSAFY-BUS/code_review/issues)
 - 코드 리뷰 시, [머릿말]을 통해 가독성 증가/ -> 머릿말 선택하는 것이 아니라 사용자가 직접 써주되, 머릿말의 다양해지면 분류가 어려우니 아래 **머릿말 Style** 기준으로 통일하되, 필요시 머릿말 추가 요청
-
+- 코드 리뷰 제목 작성 기준 **[머릿말]알고리즘사이트_문제번호_문제제목/이름** 으로 작성
 - **머릿말 style : [코드 효율] [논리 지적] [코드 질문] [논리 질문] [반례] [기타 제안] [코드 칭찬]**
 - **이슈는 왠만하면 삭제하거나 close 시키지 않기.**
 
@@ -55,10 +55,10 @@ SWEA -> SWEA
 
 
 # 참고 알고리즘 사이트
-- 백준 (https://www.acmicpc.net/)
+- [백준](https://www.acmicpc.net/)
 
-- 정올 (http://www.jungol.co.kr/)
+- [정올](http://www.jungol.co.kr/)
 
-- SWEA (https://swexpertacademy.com/main/main.do)
+- [SWEA](https://swexpertacademy.com/main/main.do)
 
-- 프로그래머스 (https://programmers.co.kr/)
+- [프로그래머스](https://programmers.co.kr/)
