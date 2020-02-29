@@ -18,9 +18,12 @@ SWEA -> SWEA
 - 문제에 packege가 있거나 직접 생성한 경우 백준/정올 같은 경우 **Main_이름(별칭)으로**, SWEA나 프로그래머스 같은 경우 **Solution_이름(별칭)으로** java파일을 올릴 것. (이외에 사이트는 _ 이름(별칭)을 지우면 바로 테스트 할 수 있는 클래스 이름_이름(별칭)으로 java파일을 만들어 올릴 것.)
 
 -  다음 링크 참고 할 것 : 
+  [패키지 예제][packageExLink]
+  [packageExLink]: https://github.com/SSAFY-BUS/code_review/tree/master/src/SWEA_1952_%EC%88%98%EC%98%81%EC%9E%A5 "go ex"
+  
+  [코드 예제][codeExLink]
+  [codeExLink]: https://github.com/SSAFY-BUS/code_review/blob/master/src/SWEA_1952_%EC%88%98%EC%98%81%EC%9E%A5/Solution_%EB%B0%95%ED%98%95%EB%AF%BC.java "go ex"
 
-      [패키지 예제](https://github.com/SSAFY-BUS/code_review/tree/master/src/SWEA_1952_%EC%88%98%EC%98%81%EC%9E%A5 , "github link")   
-      [코드 예제](https://github.com/SSAFY-BUS/code_review/blob/master/src/SWEA_1952_%EC%88%98%EC%98%81%EC%9E%A5/Solution_%EB%B0%95%ED%98%95%EB%AF%BC.java , "github link")
 
 - **다른 사람 Code는 왠만하면 손대지 말 것! 코드 리뷰는 Issue를 통해 할 것.**
 
