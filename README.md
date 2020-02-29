@@ -3,7 +3,11 @@
 
 
 # 처음 참여할 때
-  - 참고 사이트 찾아서 업데이트 할게! 괜찮은 내용 찾으면 누구나 여기에 작성 가능!
+  - Git Bash나 Shell을 사용할 경우, [gitBash 간단 설명](https://gbsb.tistory.com/10)
+  - SourceTree를 사용할 경우, [SouceTree 간단 설명](https://m.blog.naver.com/PostView.nhn?blogId=sule47&logNo=221041860776&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+  - Eclipse를 사용할 경우, [eclipse 자세한 설명](https://developer0513.tistory.com/23?category=793605)
+    + 해당 링크는 1~5까지 있으며 충돌 발생시 상황도 다루고 있어 이클립스 사용할꺼면 꼼꼼히 보면 좋을 듯.
+  - IntelliJ를 사용할 경우, [IntelliJ 간단 설명](https://ddoriya.tistory.com/entry/Intellij-Git-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 
 # 문제 올릴 때
