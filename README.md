@@ -1,9 +1,10 @@
 # Code_Review
-알고리즘 코드 리뷰 레포지토리
+- 알고리즘 코드 리뷰 레포지토리
 
 
 # 처음 참여할 때
 - 참고 사이트 찾아서 업데이트 할게!
+
 
 # 문제 올릴 때
 
@@ -15,8 +16,10 @@
 
 - 다른 사람 Code는 왠만하면 손대지 말 것! 코드 리뷰는 Issue를 통해 할 것.
 
+
 # 코드 파일 구성
 [구현]시 [구현] 표시 생략 가능/ 가능하면 [메모리] 및 [실행시간] 표기 및 적용한 [알고리즘 기법]이나 [방법론]을 제시할 것. [미구현]시 package 선언문 바로 아래에 주석으로 [미구현]임을 표시할 것. -> 가능한 자세하게 미구현 사유를 설명할 것.
+
 
 # 코드 리뷰 시
 - 코드 리뷰 시, 이슈 등록을 통해 관리. 아래 링크 참조 https://github.com/phm0127/SSAFY_Code_Review/issues/1#issue-573281622
@@ -24,16 +27,18 @@
 - 등록된 머릿말 (지속적인 추가 필요)
 - [코드 효율] [논리 지적] [코드 질문] [논리 질문] [반례] [기타 제안]
 
+
 # Environment
 - java : zulu 1.8 open jdk / java 9 이상의 version
 - IDE : eclipse , IntelliJ
 - OS : Windows10 / MacOS
 
+
 # 참고 알고리즘 사이트
-백준 (https://www.acmicpc.net/)
+- 백준 (https://www.acmicpc.net/)
 
-정올 (http://www.jungol.co.kr/)
+- 정올 (http://www.jungol.co.kr/)
 
-SWEA (https://swexpertacademy.com/main/main.do)
+- SWEA (https://swexpertacademy.com/main/main.do)
 
-프로그래머스 (https://programmers.co.kr/)
+- 프로그래머스 (https://programmers.co.kr/)
