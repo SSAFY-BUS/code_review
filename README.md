@@ -37,7 +37,8 @@ SWEA -> SWEA,
 
 
 # 코드 리뷰 시
-- 코드 리뷰 시, 이슈 등록을 통해 관리. 아래 링크 참조 https://github.com/phm0127/SSAFY_Code_Review/issues/1#issue-573281622
+- 코드 리뷰 시, 이슈 등록을 통해 관리. 다음 링크 참조 : 
+  [코드 리뷰 예제](https://github.com/phm0127/SSAFY_Code_Review/issues/1#issue-573281622, "github link")
 - 코드 리뷰 시, [머릿말]을 통해 가독성 증가/ 필요시 머릿말 추가 요청 바람.
 
 - 머릿말 style : [코드 효율] [논리 지적] [코드 질문] [논리 질문] [반례] [기타 제안] [코드 칭찬]
