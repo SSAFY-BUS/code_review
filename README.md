@@ -18,8 +18,7 @@ SWEA -> SWEA
 - 문제에 packege가 있거나 직접 생성한 경우 백준/정올 같은 경우 **Main_이름(별칭)으로**, SWEA나 프로그래머스 같은 경우 **Solution_이름(별칭)으로** java파일을 올릴 것. (이외에 사이트는 _ 이름(별칭)을 지우면 바로 테스트 할 수 있는 클래스 이름_이름(별칭)으로 java파일을 만들어 올릴 것.)
 
 -  다음 링크 참고 할 것 :    
-  [패키지 예제](https://github.com/SSAFY-BUS/code_review/tree/master/src/SWEA_1952_%EC%88%98%EC%98%81%EC%9E%A5)
-  
+  [패키지 예제](https://github.com/SSAFY-BUS/code_review/tree/master/src/SWEA_1952_%EC%88%98%EC%98%81%EC%9E%A5)    
   [코드 예제](https://github.com/SSAFY-BUS/code_review/blob/master/src/SWEA_1952_%EC%88%98%EC%98%81%EC%9E%A5/Solution_%EB%B0%95%ED%98%95%EB%AF%BC.java)
 
 
@@ -42,7 +41,7 @@ SWEA -> SWEA
 
 # 코드 리뷰 시
 - 코드 리뷰 시, 이슈 등록을 통해 관리. 다음 링크 참조 : 
-  [코드 리뷰 예제](https://github.com/SSAFY-BUS/code_review/issues, "github link")
+    [코드 리뷰 예제](https://github.com/SSAFY-BUS/code_review/issues)
 - 코드 리뷰 시, [머릿말]을 통해 가독성 증가/ -> 머릿말 선택하는 것이 아니라 사용자가 직접 써주되, 머릿말의 다양해지면 분류가 어려우니 아래 **머릿말 Style** 기준으로 통일하되, 필요시 머릿말 추가 요청
 
 - **머릿말 style : [코드 효율] [논리 지적] [코드 질문] [논리 질문] [반례] [기타 제안] [코드 칭찬]**
