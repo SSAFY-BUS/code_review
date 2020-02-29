@@ -15,14 +15,14 @@
 
 # 문제 올릴 때
 
-- 올리려는 문제에 pakage가 없을 경우. **알고리즘사이트_문제번호_문제제목**으로 package를 만든 후 가능하면 **문제이름.md**로 **문제 링크** 및 **문제**를 써주고 **sample_input.txt**와 **sample_output.txt**를 만들어줄 것.   
+- 올리려는 문제에 package가 없을 경우. **알고리즘사이트_문제번호_문제제목**으로 package를 만든 후 가능하면 **문제이름.md**로 **문제 링크** 및 **문제**를 써주고 **sample_input.txt**와 **sample_output.txt**를 만들어줄 것.   
 알고리즘 사이트는 다음으로 통일!   
 백준 -> BaekJoon   
 정올 -> JungOl   
 SWEA -> SWEA   
 프로그래머스 -> Programmers   
 
-- 문제에 packege가 있거나 직접 생성한 경우 백준/정올 같은 경우 **Main_이름(별칭)으로**, SWEA나 프로그래머스 같은 경우 **Solution_이름(별칭)으로** java파일을 올릴 것. (이외에 사이트는 _ 이름(별칭)을 지우면 바로 테스트 할 수 있는 클래스 이름_이름(별칭)으로 java파일을 만들어 올릴 것.)
+- 문제에 package가 있거나 직접 생성한 경우 백준/정올 같은 경우 **Main_이름(별칭)으로**, SWEA나 프로그래머스 같은 경우 **Solution_이름(별칭)으로** java파일을 올릴 것. (이외에 사이트는 _ 이름(별칭)을 지우면 바로 테스트 할 수 있는 클래스 이름_이름(별칭)으로 java파일을 만들어 올릴 것.)
 
 -  다음 링크 참고 할 것 :    
   [패키지 예제](https://github.com/SSAFY-BUS/code_review/tree/master/src/SWEA_1952_%EC%88%98%EC%98%81%EC%9E%A5)    
