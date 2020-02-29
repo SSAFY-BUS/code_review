@@ -9,6 +9,9 @@
     + 해당 링크는 1~5까지 있으며 충돌 발생시 상황도 다루고 있어 이클립스 사용할꺼면 꼼꼼히 보면 좋을 듯.
   - IntelliJ를 사용할 경우, [IntelliJ 간단 설명](https://ddoriya.tistory.com/entry/Intellij-Git-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
+### Git 관련 참고 사이트
+  - [Git에 관해 몇 가지 정리](https://39km.tistory.com/category/%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%A7%84%ED%96%89?page=1)
+
 
 # 문제 올릴 때
 
