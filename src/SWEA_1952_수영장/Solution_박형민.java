@@ -1,11 +1,11 @@
-package SWEA_1952_¼ö¿µÀå;
+package SWEA_1952_ìˆ˜ì˜ì¥;
 /**
-  	Àû¿ë ¾Ë°í¸®Áò
-  		µ¿Àû ÇÁ·Î±×·¡¹Ö(DP)
+  	ì ìš© ì•Œê³ ë¦¬ì¦˜
+  		ë™ì  í”„ë¡œê·¸ë˜ë°(DP)
  
-	¸Ş¸ğ¸®
+	ë©”ëª¨ë¦¬
 		24,372 KB
-	½ÇÇà½Ã°£
+	ì‹¤í–‰ì‹œê°„
 		149 ms
 	
 	
@@ -13,7 +13,7 @@ package SWEA_1952_¼ö¿µÀå;
 
 import java.util.Scanner;
 
-public class Solution_¹ÚÇü¹Î {
+public class Solution_ë°•í˜•ë¯¼ {
 	static int answer;
 	static int[] fare;
 	static int[] month;
