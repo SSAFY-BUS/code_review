@@ -1,11 +1,11 @@
-package SWEA_1952_¼ö¿µÀå;
+package SWEA_1952_ìˆ˜ì˜ì¥;
 /**
  * 
- * ÀÛ¼º Àü
+ * ì‘ì„± ì „
  *
  */
 
-public class Solution_ÀÌ±ÙÈ­ {
+public class Solution_ì´ê·¼í™” {
 	public static void main(String[] args) {
 		
 	} // end of main
