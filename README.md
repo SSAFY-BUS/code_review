@@ -67,6 +67,7 @@
 - **이슈는 왠만하면 삭제하거나 close 시키지 않기.**
 -  다음 링크 참조 : 
     [코드 리뷰 예제](https://github.com/SSAFY-BUS/code_review/issues)
+    [코드 리뷰 방법](https://github.com/SSAFY-BUS/code_review/blob/master/HowToReview.md)
 
 ### 머릿말 style
   - [코드 효율]   [논리 지적]   [코드 질문]  [논리 질문]   [반례]   [기타 제안]  [코드 칭찬]
