@@ -1,5 +1,6 @@
 # Code_Review
 - 알고리즘 코드 리뷰 레포지토리
+-  [코드 리뷰 ](https://github.com/SSAFY-BUS/code_review/issues)
 
 
 # 처음 참여할 때
