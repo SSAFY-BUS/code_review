@@ -65,7 +65,7 @@
       + 필요시 머릿말 추가 및 수정
 - 코드 리뷰 제목 작성 기준 **[머릿말]알고리즘사이트_문제번호_문제제목/이름** 으로 작성
 - **이슈는 왠만하면 삭제하거나 close 시키지 않기.**
--  다음 링크 참조 : 
+-  다음 링크 참조 :   
     [코드 리뷰 예제](https://github.com/SSAFY-BUS/code_review/issues)  
     [코드 리뷰 방법](https://github.com/SSAFY-BUS/code_review/blob/master/HowToReview.md)
 
