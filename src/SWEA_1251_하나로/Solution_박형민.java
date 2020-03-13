@@ -25,7 +25,7 @@ public class Solution_박형민 {
 	static double E;
 	static double answer;
 	public static void main(String[] args) {
-		Scanner ㅡsc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
 		for(int test_case = 1; test_case <=T; test_case++) {
 			answer=0;
