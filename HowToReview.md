@@ -53,3 +53,4 @@
 
 <img src="https://github.com/SSAFY-BUS/code_review/blob/master/READ/review6.JPG" width="90%"></img>
 
+다 작성한 뒤, **Submit new issue** 버튼을 클릭하면 완료.
