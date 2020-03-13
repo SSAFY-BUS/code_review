@@ -44,7 +44,7 @@
 <img src="https://github.com/SSAFY-BUS/code_review/blob/master/READ/review5.JPG" width="90%"></img>
 
   1번 네모에 제목을 달고 **(제목 형식은 README.md 참고)** 2번 네모가 방금 선택한 코드에 관련된 링크이고 3번 네모에 리뷰할 내용을 쓰면 됨.
-  어떤 방식으로 작성되는지 궁금하면 **Preview**(4번 네모)를 누르면 다음 그림처럼 미리 코드를 확인 할 수 있음.
+  어떤 방식으로 작성되는지 궁금하면 **Preview**(4번 네모)를 누르면 다음 그림처럼 미리 를 확인 할 수 있음.
 <br></br>
   <br></br>
   <br></br>
