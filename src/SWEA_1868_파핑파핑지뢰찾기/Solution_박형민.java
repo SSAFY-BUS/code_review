@@ -20,7 +20,6 @@ import java.util.Scanner;
 public class Solution_박형민 {
 	static int N;
 	static int[][] map;
-	static boolean[][] b;
 	static int answer;
 	static int[] dR = {-1,-1,-1,0,1,1,1,0};
 	static int[] dC = {-1,0,1,1,1,0,-1,-1};
@@ -31,7 +30,6 @@ public class Solution_박형민 {
 			N = sc.nextInt();
 			answer = N*N;
 			map = new int[N][N];
-			b = new boolean[N][N];
 			for(int i=0;i<N;i++) {
 				String s = sc.next();
 				for(int j=0; j<N;j++) {
@@ -62,8 +60,8 @@ public class Solution_박형민 {
 	static void countZeroArea() {
 		for(int i=0;i<N;i++) {
 			for(int j=0;j<N;j++) {
-				if(map[i][j]==0&&!b[i][j]) {
-					b[i][j]=true;
+				if(map[i][j]==0) {
+					map[i][j]=-2;
 					union(i,j);
 				}
 			}
@@ -83,13 +81,13 @@ public class Solution_박형민 {
 				if(nr<0||nc<0||nr>=N||nc>=N) {
 					continue;
 				}
-				if(map[nr][nc]==0&&!b[nr][nc]) {
+				if(map[nr][nc]==0) {
 					answer--;
-					b[nr][nc]=true;
+					map[nr][nc]=-2;
 					q.add(nr);
 					q.add(nc);
-				}else if(map[nr][nc]>0&&!b[nr][nc]) {
-					b[nr][nc]=true;
+				}else if(map[nr][nc]>0) {
+					map[nr][nc]=-2;
 					answer--;
 				}
 			}
