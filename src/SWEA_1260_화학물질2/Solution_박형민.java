@@ -1,5 +1,18 @@
 package SWEA_1260_화학물질2;
+/**
+적용 알고리즘
+	DP(Memoization), Greedy, HashSet
+	HashSet을 이용하여 첫번째 행렬을 찾은 뒤 가능한 행렬의 경우를 하나로 추려서 완전 탐색을 하되, (Greedy)
+	Memoization을 통해 평균 시간 복잡도를 줄임.
+	
+메모리
+	70,668 KB
 
+실행시간
+	213 ms
+
+
+*/
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
