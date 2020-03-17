@@ -1,5 +1,15 @@
 package SWEA_5604_구간합;
-
+/**
+ *	적용 알고리즘
+ *		그리디
+ *
+ * 	메모리
+ * 		22,316 kb
+ *
+ * 	실행시간
+ * 		112 ms
+ *
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
