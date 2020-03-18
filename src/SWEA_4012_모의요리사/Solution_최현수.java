@@ -11,7 +11,7 @@ import java.util.Scanner;
  *			241 ms
  *
  */
-public class Solution_SWEA_4012_요리사 {
+public class Solution_최현수 {
 	
 	static int n; // 식재료 개수
 	static int[][] arr; // 식재료 시너지
