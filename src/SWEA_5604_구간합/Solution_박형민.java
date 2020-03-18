@@ -55,7 +55,7 @@ public class Solution_박형민 {
 				}
 				temp/=10;
 				ten*=10;
-			}	// 입력 받은 숫자(num)의 10^(n-1)인지 구함. (n을 구하는 것이 아니라 10^n을 구함)
+			}	// 입력 받은 숫자(num)이 n자리라면 10^(n-1)를 구함. (n을 구하는 것이 아니라 10^n을 구함)
 			
 			
 			long prev=0;
@@ -64,7 +64,7 @@ public class Solution_박형민 {
 			while(ten>0) {
 				
 				long front=num/ten;
-				//한자리를 구하기 위한 변수 n자리인 num을 10^(n-1)으로 나눔.
+				//한자리를 구하기 위한 변수. n자리인 num을 10^(n-1)으로 나눔.
 				
 				long end=num%ten;
 				//나머지 뒤에 있는 숫자들
