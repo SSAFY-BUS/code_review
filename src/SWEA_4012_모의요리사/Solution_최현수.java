@@ -1,3 +1,5 @@
+package SWEA_4012_모의요리사;
+
 import java.io.IOException;
 import java.util.Scanner;
 /**
